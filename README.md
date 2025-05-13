@@ -1,24 +1,8 @@
-#  **Welcome to Ruthwik's GitHub Profile!**
-Hi there! 👋
+<!-- Profile header -->
+<h1 align="center">Hi 👋, I'm Ruthwik</h1>
+<h3 align="center">🚀 A Passionate Full-Stack Developer from India</h3>
 
-# 💫 About Me:
-I'm Regulapati ruthwik, a MERN stack web developer passionate about building user-friendly and scalable web applications. I have worked on both solo and collaborative projects, honing my skills in problem-solving, teamwork, and clean code practices.<br><br>My tech stack includes JavaScript, React.js, Node.js, MongoDB, HTML, and CSS, and I’m always eager to learn and explore new technologies.<br><br> Feel free to check out my repositories or connect with me—let’s build something amazing together! 🚀
-
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-<!--
-**regulapatiruthwik/regulapatiruthwik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Typing animation (via SVG) -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FF61C7&center=true&vCenter=true&width=435&lines=Web+Developer+%F0%9F%92%BB;React+%2F+Node.js+Learner+%F0%9F%92%A1;Building+Job+Portal+Project+%F0%9F%9A%80;Love+to+Solve+Real+Problems+%E2%9C%94%EF%B8%8F" alt="Typing SVG" />
+</p>
